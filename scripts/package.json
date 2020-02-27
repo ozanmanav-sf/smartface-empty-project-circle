@@ -9,6 +9,5 @@
         "sf-extension-utils": "^11.1.0"
     },
     "scripts": {
-        "postinstall": "ENV_PATH=.smf/.env sfMarketplaceService install && rm -rf node_modules/.bin"
     }
 }
